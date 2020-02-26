@@ -1,7 +1,7 @@
-header{
+nav{
+  background-image: url(images/cat2.jpg);
   height:500px;
   background-size:cover;
-  background-image: url(images/cat2.jpg);
 
 }
 .center {
