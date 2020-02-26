@@ -6,8 +6,11 @@ header{
 .center {
   font:'Roboto Slab',serif;
   font-size:36px;
-  font-color:white;
+  color:white;
   font-weight:normal;
   max-width:780px;
-  align-content:center;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
 }
