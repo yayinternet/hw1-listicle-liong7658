@@ -1,8 +1,8 @@
-.header{
+header{
   position: relative;
   text-align: center;
 }
-.centered {
+.center {
   max-width:780px;
   position: absolute;
   top: 50%;
