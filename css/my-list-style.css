@@ -1,3 +1,11 @@
-/**
- TODO(you): Add CSS for the list that you create yourself!
-*/
+.header{
+  position: relative;
+  text-align: center;
+}
+.centered {
+  max-width:780px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
