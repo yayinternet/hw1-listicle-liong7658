@@ -2,7 +2,7 @@ header{
   height:500px;
   position: top;
   text-align: center;
- width:full;
+  max-width:100%;
 }
 .center {
   font-family:"Roboto Slab",sans-serif;
