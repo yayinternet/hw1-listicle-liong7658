@@ -1,11 +1,13 @@
 header{
+  height:500px;
   position: relative;
   text-align: center;
 }
 .center {
+  font:'Roboto Slab',serif;
+  font-size:36px;
+  font-color:white;
+  font-weight:normal;
   max-width:780px;
-  position: absolute;
-  top: 50%;
-  left: 50%;
-  transform: translate(-50%, -50%);
+  align-content:center;
 }
