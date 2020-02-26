@@ -1,6 +1,6 @@
 header{
   height:500px;
-  position: relative;
+  position: fixed;
   text-align: center;
   max-width:100%;
 }
