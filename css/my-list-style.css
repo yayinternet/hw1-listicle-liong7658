@@ -4,7 +4,7 @@ header{
   text-align: center;
 }
 .center {
-  font:'Roboto Slab',serif;
+  font-family:"Roboto Slab",sans-serif;
   font-size:36px;
   color:white;
   font-weight:normal;
