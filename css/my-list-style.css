@@ -60,13 +60,7 @@ body{
   color:rgb(51, 51, 51);
   width:66.67%;
 }
-a{
-  color:#42b4d6;
-  text-decoration:none;
-}
-a:hover{
-  text-decoration:underline;
-}
+
 .space{
   height:20px;
 }
