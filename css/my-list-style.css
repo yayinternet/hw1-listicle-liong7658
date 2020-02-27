@@ -1,5 +1,6 @@
 body{
   margin:0;
+  background-color: mistyrose;
 }
 .header{
   background-image:url('../images/cat1.jpg');
@@ -78,12 +79,21 @@ body{
   position: relative;
 }
 #cat-gif{
+  display: table;
   width: 100%;
 }
 .cat-gif-position{
   border-radius: 100%;
-  padding: 5px 5px;
-  margin-left:auto;
-  margin-right:auto;
-  float :none;
+  position:relative;
+}
+
+.text{
+  font-family: monospace;
+  font-size: 36px;
+  text-align: center;
+  padding: 10px 10px;
+  background-color: peachpuff;
+}
+.hightlight{
+  background-color: papayawhip;
 }
