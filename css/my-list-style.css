@@ -2,12 +2,12 @@ body{
   margin:0;
 }
 .header{
-  background-image:linear-gradient(rgba(0, 0, 0, .3), rgba(0, 0, 0, .3)),url('cat2.jpg');
+  background-image:url('../images/cat1.jpg');
   background-repeat:no-repeat;
   height:500px;
   width:100%;
   background-size:cover;
-  font-family:Roboto Slab,serif;
+  font-family:Roboto Slab,sans-serif;
   font-size:36px;
   color:white;  
   display:table;
@@ -60,7 +60,7 @@ body{
   color:rgb(51, 51, 51);
   width:66.67%;
 }
-
+  
 .space{
   height:20px;
 }
