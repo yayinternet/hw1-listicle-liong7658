@@ -1,10 +1,19 @@
+body{
+  margin:0px;
+}
 header{
-  background-image:url(cat2.jpg);
+  background-image:linear-gradient(rgba(0, 0, 0, .3), rgba(0, 0, 0, .3)),url('cat2.jpg');
+  background-repeat:no-repeat;
   height:500px;
+  width:100%;
   background-size:cover;
+  font-family:Roboto Slab,serif;
+  font-size:36px;
+  color:white;  
+  display:table;
 
 }
-.center {
+#page_title {
   font-family:"Roboto Slab",sans-serif;
   font-size:36px;
   color:white;
@@ -14,4 +23,12 @@ header{
   top: 50%;
   left: 50%;
   transform: translate(-50%, -50%);
+}
+.profile_img{
+  border-radius:100%;
+  border-color:white;
+  border-width:1px;
+  margin-top:-50px;
+  margin-left:auto;
+  margin-right:auto;
 }
